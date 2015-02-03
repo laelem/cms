@@ -1,0 +1,4 @@
+/node_modules
+/.tmp
+/app/node_modules
+/logs
